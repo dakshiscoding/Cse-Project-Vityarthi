@@ -1,0 +1,13 @@
+------ BOOKING RECEIPT ------
+Passenger: vedant
+Age: 19
+Email: vadant@g.com
+Address: fhgfhg
+
+Flights Booked:
+→ AI303
+
+Total Amount: ₹6000
+Booking Date: 2025-11-20
+Estimated Travel Date: 2025-11-24
+------------------------------
