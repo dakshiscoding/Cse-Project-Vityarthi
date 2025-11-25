@@ -92,8 +92,11 @@ Flights Booked:
 → AI101
 
 Total Amount: ₹5500
+
 Booking Date: 2025-11-23
+
 Travel Date: 2025-11-27
+
 
 ##  Technologies Used
 
