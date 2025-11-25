@@ -11,7 +11,7 @@ This is a simple console-based Flight Booking System written in Python. It allow
 
 The project is beginner‑friendly and demonstrates basic Python concepts like dictionaries, lists, functions, file handling, and loops.
 
-## 🚀 Features
+##  Features
 
 ### 1. View Flights
 
@@ -73,7 +73,7 @@ The receipt includes:
 Ends the program.
 
 
-## 📂 Receipt Example (Generated File)
+##  Receipt Example (Generated File)
 
 
 ------ BOOKING RECEIPT ------
@@ -89,7 +89,7 @@ Total Amount: ₹5500
 Booking Date: 2025-11-23
 Travel Date: 2025-11-27
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python 3
 * Modules:
@@ -97,20 +97,20 @@ Travel Date: 2025-11-27
   * random – to generate estimated travel date
   * datetime – to get today’s date and calculate future dates
 
-## ▶️ How to Run the Program
+##  How to Run the Program
 
 1. Copy the Python code into a file, e.g.:flight_booking_system.py
 2. Open a terminal/command prompt.
 3. Run the program: python flight_booking_system.py
 4. Follow the on-screen menu.
 
-## 📝 Notes
+##  Notes
 
 * This is a beginner‑level console app.
 * No real flight database or API is used.
 * Seat count does not decrease after booking (can be added as an enhancement).
 
-## 🔧 Possible Improvements
+##  Possible Improvements
 
 * Store flight and passenger data in a database.
 * Add seat selection.
