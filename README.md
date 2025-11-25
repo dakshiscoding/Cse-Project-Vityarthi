@@ -79,11 +79,16 @@ Ends the program.
 ------ BOOKING RECEIPT ------
 
 Passenger: John Doe
+
 Age: 28
+
 Email: john@gmail.com
+
 Address: Delhi, India
 
+
 Flights Booked:
+
 → AI101
 
 Total Amount: ₹5500
@@ -94,6 +99,7 @@ Travel Date: 2025-11-27
 
 * Python 3
 * Modules:
+  
   * random – to generate estimated travel date
   * datetime – to get today’s date and calculate future dates
 
