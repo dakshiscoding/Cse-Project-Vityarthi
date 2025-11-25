@@ -1,8 +1,8 @@
 ------ BOOKING RECEIPT ------
-Passenger: vedant
+Passenger: Daksh
 Age: 19
-Email: vadant@g.com
-Address: fhgfhg
+Email: Daksh@gmail.com
+Address: Vit Bhopal Block 8 Hostel
 
 Flights Booked:
 → AI303
@@ -10,4 +10,5 @@ Flights Booked:
 Total Amount: ₹6000
 Booking Date: 2025-11-20
 Estimated Travel Date: 2025-11-24
+
 ------------------------------
